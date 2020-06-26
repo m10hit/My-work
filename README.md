@@ -13,5 +13,3 @@ https://m10hit.github.io/TinDog/
 https://m10hit.github.io/BBC_Clone/
 
 https://m10hit.github.io/Personal-website/
-
-https://m10hit.github.io/cv/
